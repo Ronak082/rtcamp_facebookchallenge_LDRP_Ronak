@@ -9,13 +9,17 @@ UI : Pure CSS (Not used any external framework)
 Applying for Front-End
 
 ### Description
-* rt-facebookchallenge is a responsive website that used to download Facebook albums and photos. and also provide the google drive service to upload the photos on Google Drive.   
+* rt-facebookchallenge is a website where user first have to login on our website and then redirecting to facebook login if credentials are already there then directly main page will comeout and if user is not logged in then facebook authentication will come.
+* After getting logged in user can see his albums photos where if User want to download the albums then he/she can download selected albums or click on download all.
+* If user want to take backup of facebook images in google drive then he/she can click on google button and directly he/she will be redirected to next page to add images on google drive.
 
 ### Demo
+https://rtcampldrpronaksoham263.000webhostapp.com/
 
 ### Usage
-1. Login to your account with your valid credentials.
-2. That's it. now explore your beautiful albums and photos. 
+1. First Login to your account with my webpage.
+2. Now Facebook Login with your credentials. 
+2. That's it. Now you can see your albums and download it or take your backup oon google drive 
 
 ### Screenshots
 
@@ -25,7 +29,6 @@ Applying for Front-End
 ### Libraries
 * Fontawesome (https://fontawesome.com/)
 * Uploading-files-to-Google-Drive-with-PHP (https://github.com/fareed543/Uploading-files-to-Google-Drive-with-PHP)
-* W3schools css (https://www.w3schools.com/w3css/4/w3.css)
 
 ### Reference
 * Google
