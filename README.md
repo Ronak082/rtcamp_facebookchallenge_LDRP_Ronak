@@ -15,7 +15,43 @@ Applying for Front-End
 
 ### Screenshots
 1. First Loader
-<img src="Screenshots/Screenshot(22).png">
+<img src="Screenshots/Screenshot (22).png">
+2. Login Page
+<img src="Screenshots/Screenshot (23).png">
+3. Signup Page
+<img src="Screenshots/Screenshot (24).png">
+4. Login With Facebook
+<img src="Screenshots/Screenshot (25).png">
+5. Home Page
+<img src="Screenshots/Screenshot (26).png">
+6. Albums Photos
+<img src="Screenshots/Screenshot (27).png">
+7. Full Screen Slideshow
+<img src="Screenshots/Screenshot (28).png">
+8. Selection for Downloading all images in a Zip file
+<img src="Screenshots/Screenshot (29).png">
+9. Downloading Page
+<img src="Screenshots/Screenshot (30).png">
+10. Zip Downloaded
+<img src="Screenshots/Screenshot (31).png">
+11. Zip file after download with folder of Album name
+<img src="Screenshots/Screenshot (32).png">
+12. Selection for taking backup in Google drive
+<img src="Screenshots/Screenshot (33).png">
+13. Google Authentication
+<img src="Screenshots/Screenshot (34).png">
+14. Uploading Page
+<img src="Screenshots/Screenshot (35).png">
+15. Uploaded Zip file in Google drive
+<img src="Screenshots/Screenshot (36).png">
+16. Responsive Home Page
+<img src="Screenshots/Screenshot (37).png">
+17. Responsive Images
+<img src="Screenshots/Screenshot (38).png">
+18. Responsive Selection
+<img src="Screenshots/Screenshot (39).png">
+19. Responsive Downloading Page
+<img src="Screenshots/Screenshot (40).png">
 
 ### Usage
 1. First Login to your account with my webpage.
@@ -36,5 +72,6 @@ Applying for Front-End
 * Google
 * Stackoverflow
 * Quora
+* Youtube
 * Geeks for Geeks
 * GitHub
