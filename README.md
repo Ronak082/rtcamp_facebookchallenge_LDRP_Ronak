@@ -13,8 +13,9 @@ Applying for Front-End
 * After getting logged in user can see his albums photos where if User want to download the albums then he/she can download selected albums or click on download all.
 * If user want to take backup of facebook images in google drive then he/she can click on google button and directly he/she will be redirected to next page to add images on google drive.
 
-### Demo
-https://rtcampldrpronaksoham263.000webhostapp.com/
+### Screenshots
+1. First Loader
+<img src="Screenshots/Screenshot(22).png">
 
 ### Usage
 1. First Login to your account with my webpage.
