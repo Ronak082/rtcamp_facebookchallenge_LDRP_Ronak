@@ -58,8 +58,6 @@ Applying for Front-End
 2. Now Facebook Login with your credentials. 
 2. That's it. Now you can see your albums and download it or take your backup oon google drive 
 
-### Screenshots
-
 ### APIs
 * Facebook Graph API
 * Google Drive API
