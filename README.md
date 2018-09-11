@@ -11,7 +11,7 @@ Applying for Front-End
 ### Required Information
 * First extract facebook.zip and google.zip for api.
 * Replace your auth values.
-* For basic demo use Username : sohamvyas73@gmail.com and password : test (to test and Login in our website please inform us with facebook id).
+* For basic demo use Username : gajjarronak082@gmail.com and password : ronak (to test and Login in our website please inform us with facebook id).
 
 ### Description
 * rt-facebookchallenge is a website where user first have to login on our website and then redirecting to facebook login if credentials are already there then directly main page will comeout and if user is not logged in then facebook authentication will come.
